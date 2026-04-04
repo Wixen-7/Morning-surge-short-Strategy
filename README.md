@@ -4,6 +4,11 @@
 ![Forks](https://img.shields.io/github/forks/Wixen-7/morning-surge-short-strategy?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/Wixen-7/morning-surge-short-strategy)
 
+## 💡 Why I Built This
+Most retail traders in India manually watch 30+ stocks every morning.
+This system automates that scan, scores signals objectively, and removes
+emotional decision-making from the equation. Built for the NSE, by an NSE trader.
+
 # 📉 Morning Surge Short Strategy
 
 An algorithmic trading system for Indian equities that detects abnormal morning price surges and shorts them for intraday mean-reversion profits.
