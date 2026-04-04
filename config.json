@@ -1,0 +1,15 @@
+{
+  "surge_threshold": 3.0,
+  "volume_spike_multiplier": 1.5,
+  "stop_loss_pct": 2.0,
+  "target_pct": 2.0,
+  "max_position_size": 50000,
+  "max_positions": 5,
+  "circuit_buffer": 2.0,
+  "min_signal_strength": 50,
+  "detection_window_start": "09:15",
+  "detection_window_end": "10:15",
+  "entry_window_end": "10:30",
+  "exit_time": "14:30",
+  "lookback_days": 10
+}
