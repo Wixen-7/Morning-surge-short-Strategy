@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Stars](https://img.shields.io/github/stars/Wixen-7/morning-surge-short-strategy?style=social)
+![Forks](https://img.shields.io/github/forks/Wixen-7/morning-surge-short-strategy?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/Wixen-7/morning-surge-short-strategy)
+
 # 📉 Morning Surge Short Strategy
 
 An algorithmic trading system for Indian equities that detects abnormal morning price surges and shorts them for intraday mean-reversion profits.
