@@ -1,7 +1,2 @@
 streamlit>=1.0
-yfinance
-pandas
-plotly
-ta
-kiteconnect
 # Add other dependencies here
