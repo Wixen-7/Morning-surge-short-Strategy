@@ -1,2 +1,0 @@
-streamlit>=1.0
-# Add other dependencies here
