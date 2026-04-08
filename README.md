@@ -4,12 +4,11 @@
 ![Forks](https://img.shields.io/github/forks/Wixen-7/morning-surge-short-strategy?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/Wixen-7/morning-surge-short-strategy)
 
-## 💡 Why I Built This
-Most retail traders in India manually watch 30+ stocks every morning.
-This system automates that scan, scores signals objectively, and removes
-emotional decision-making from the equation. Built for the NSE, by an NSE trader.
+## Why I Built This ?
 
-# 📉 Morning Surge Short Strategy
+Most retail traders in India manually watch 30+ stocks every morning. This system automates that scan, scores signals objectively, and removes emotional decision-making from the equation. Built for the NSE, by an NSE trader.
+
+# Morning Surge Short Strategy
 
 An algorithmic trading system for Indian equities that detects abnormal morning price surges and shorts them for intraday mean-reversion profits.
 
@@ -20,7 +19,7 @@ An algorithmic trading system for Indian equities that detects abnormal morning 
 
 ---
 
-## 🧠 Strategy Logic
+## Strategy Logic
 
 ```
 09:15 AM  Market opens
@@ -42,7 +41,7 @@ Throughout the day:
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 morning_surge_strategy/
@@ -59,7 +58,7 @@ morning_surge_strategy/
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### 1. Install dependencies
 ```bash
@@ -88,7 +87,7 @@ Open `dashboard.html` in any browser — no server required.
 
 ---
 
-## ⚙️ Configuration (`config.json`)
+## Configuration (`config.json`)
 
 | Parameter | Default | Description |
 |-----------|---------|-------------|
@@ -121,7 +120,7 @@ Open `dashboard.html` in any browser — no server required.
 
 ---
 
-## 📊 Signal Scoring (0–100)
+## Signal Scoring (0–100)
 
 | Component | Max Points | Logic |
 |-----------|-----------|-------|
@@ -133,7 +132,7 @@ Only signals scoring **≥50** trigger a trade.
 
 ---
 
-## 🔌 Zerodha Kite Integration
+## Zerodha Kite Integration
 
 1. Create an app at [kite.zerodha.com/connect/login](https://kite.zerodha.com/connect/login)
 2. Install the client: `pip install kiteconnect`
@@ -149,7 +148,7 @@ All live orders are placed as **MIS (intraday)** in the NSE segment.
 
 ---
 
-## 📈 Backtesting
+## Backtesting
 
 The engine uses synthetic OHLCV data by default. To use real data:
 
@@ -163,7 +162,7 @@ Backtest outputs are saved to `output/` as:
 
 ---
 
-## ⚠️ Risk Warnings
+## Risk Warnings
 
 - **This is not financial advice.** Trading involves substantial risk of loss.
 - Always paper trade extensively before using real capital.
@@ -174,7 +173,7 @@ Backtest outputs are saved to `output/` as:
 
 ---
 
-## 🚀 Roadmap
+## Roadmap
 
 - [ ] News sentiment integration (FinBERT)
 - [ ] Telegram/SMS alerts for signals
@@ -185,7 +184,7 @@ Backtest outputs are saved to `output/` as:
 
 ---
 
-## 📚 Learning Resources
+## Learning Resources
 
 - *Trading in the Zone* — Mark Douglas (psychology)
 - *The New Trading for a Living* — Alexander Elder (risk management)
@@ -195,10 +194,10 @@ Backtest outputs are saved to `output/` as:
 
 ---
 
-## 📝 License
+## License
 
 MIT License — free to use, modify, and distribute.
 
 ---
 
-*Built for educational purposes. Always understand what you're trading before risking real capital.*
+*Built for educational purposes. Always understand what you're trading before risking real capital.Happy Trading:)*
